@@ -1,1 +1,1 @@
-# playground
+Various projects for learning purposes
