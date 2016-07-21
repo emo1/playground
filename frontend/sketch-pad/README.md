@@ -1,1 +1,0 @@
-Sketch pad using Javascript and JQuery
