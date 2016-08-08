@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  width: 802px;
+  clear: both;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+}
+
+.create-grid {
+  margin: 10px auto;
+  width: 100%;
+}
+
+.grid {
+  width: 802px;
+  margin: 0 auto;
+  clear: both;
+  overflow: hidden;
+  border: 1px solid #34495e;
+}
+
+.cell {
+  float: left;
+}
